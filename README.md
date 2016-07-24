@@ -1,2 +1,2 @@
-# brew_master
+# Brew Master
 Beer brewing master project.
